@@ -4,13 +4,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AadilMehrajBhat&layout=compact&theme=blue-green)
 
-I'm an enthaustic frontend engineer with over the last 4 years experience, over the years I have designed, developed, and delivered, highly responsive web applications and solutions using modern technologies.  In addition, I have consistently met client expectations and project milestones while collobrating with various cross-funtional teams. Please consider the following highlights:
-
-- Improved the initial load time by 50-65% for the application by reducing the bundle size
-- Reduced the static bundle size by 80% resulting in a significant improvement in the load time
-- Engineered website builder framework to user build multipage websites just by drag and drop. This is in production use and lets users compose websites in no time.
-- Created reusable React UI component library with TypeScript and Storybook used my many internal company projects
-- Engineered a framework to dynamically annotate content within the webpages based on web annotation model standard
+I'm an enthaustic frontend engineer with over the last 4 years experience, over the years I have designed, developed, and delivered, highly responsive web applications and solutions using modern technologies.  In addition, I have consistently met client expectations and project milestones while collobrating with various cross-funtional teams.
 
 Let's hang out on [Linkedin](https://www.linkedin.com/in/aadilmehraj).
 
