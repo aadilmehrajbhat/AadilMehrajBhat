@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AadilMehrajBhat&label=Views)   [![LeetCode user AadilMehraj](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAadilMehraj&logo=leetcode&logoColor=yellow)](https://leetcode.com/AadilMehraj/)  
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AadilMehrajBhat&layout=compact&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AadilMehrajBhat&layout=compact&theme=blue-green&hide=css,html)
 
 I'm an enthaustic frontend engineer with over the last 4 years experience, over the years I have designed, developed, and delivered, highly responsive web applications and solutions using modern technologies.  In addition, I have consistently met client expectations and project milestones while collobrating with various cross-funtional teams.
 
