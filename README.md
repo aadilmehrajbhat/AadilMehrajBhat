@@ -8,14 +8,6 @@ I'm an enthaustic frontend engineer with over the last 4 years experience, over 
 
 Let's hang out on [Linkedin](https://www.linkedin.com/in/aadilmehraj).
 
-<a href="https://twitter.com/aadilmbhat">
-  <img align="left" alt="Aadil Mehraj | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aadilmehraj">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
 <!--
 **AadilMehrajBhat/AadilMehrajBhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
